@@ -1,4 +1,4 @@
-[![Python Version](https://img.shields.io/badge/python-3.14+-blue)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.12+-blue)](https://www.python.org/downloads/)
 
 ## References
 
