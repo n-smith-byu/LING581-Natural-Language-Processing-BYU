@@ -1,5 +1,5 @@
 
-class WordNode():
+class WordNode:
     def __init__(self, word_info):
         self.name, self.meta = word_info
         self.definitions = {}
