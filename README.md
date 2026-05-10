@@ -1,5 +1,22 @@
 [![Python Version](https://img.shields.io/badge/python-3.12+-blue)](https://www.python.org/downloads/)
 
+# Graph-based Method for Unbiased Word Embeddings
+
+This Project was a Final Project in my Natural Language Processing class (LING 581) in Fall 2023 at BYU.
+The code has been cleaned up to make it easier to run. 
+
+There is a project write-up in `LING581_FinalProject_NLP.pdf`, just note that my original code had some bugs, and what I said I did in the paper is not quite aligned, 
+in particular, the Node2Vec variant I used. I will be working on rewriting it to fix these bugs and improve performance. 
+
+The original code is in the `original-code` branch. The modified code will appear in the `main` branch as it is written. 
+Once finished, the `main` branch will become the default again. 
+
+## Running the Code
+
+1. First, run all the cells in `MakeGraph.ipynb`
+2. Next run cells in `EmbeddingGeneration.ipynb`. This runs Node2Vec and generates embeddings. It also pulls in Google's pretrained embeddings.
+3. Finally, run the cells in `GraphAndModelEvaluation.ipynb`. This performs analogy tests and creates visualizations to check for bias. 
+
 ## References
 
 * Tolga Bolukbasi, Kai-Wei Chang, James Zou,
