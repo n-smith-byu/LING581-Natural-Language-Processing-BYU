@@ -2,14 +2,14 @@
 
 # Graph-based Method for Unbiased Word Embeddings
 
-This Project was a Final Project in my Natural Language Processing class (LING 581) in Fall 2023 at BYU.
+This Project was my Final Project for my Natural Language Processing class (LING 581) in Fall 2023 at BYU.
 The code has been cleaned up to make it easier to run. 
 
 There is a project write-up in `LING581_FinalProject_NLP.pdf`, just note that my original code had some bugs, and what I said I did in the paper is not quite aligned, 
 in particular, the Node2Vec variant I used. I will be working on rewriting it to fix these bugs and improve performance. 
 
-The original code is in the `original-code` branch. The modified code will appear in the `main` branch as it is written. 
-Once finished, the `main` branch will become the default again. 
+The original code is in the `original-code` branch. The modified code will appear in the `updated-code` branch as it is written. 
+Once finished, the `updated-code` branch will become the default branch. 
 
 ## Running the Code
 
