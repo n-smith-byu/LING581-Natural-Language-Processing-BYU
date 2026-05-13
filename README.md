@@ -2,14 +2,14 @@
 
 # Graph-based Method for Unbiased Word Embeddings
 
-This Project was a Final Project in my Natural Language Processing class (LING 581) in Fall 2023 at BYU.
+This Project was my Final Project for my Natural Language Processing class (LING 581) in Fall 2023 at BYU.
 The code has been cleaned up to make it easier to run. 
 
-There is a project write-up in `LING581_FinalProject_NLP.pdf`, just note that my original code had some bugs, and what I said I did in the paper is not quite aligned, 
-in particular, the Node2Vec variant I used. I will be working on rewriting it to fix these bugs and improve performance. 
+There is a project write-up in `LING581_FinalProject_NLP_revised.pdf`. The paper has been revised to correct grammar and improve clarity, although the original can be found in the `backup/` directory. Just note that my original notebooks also had some bugs, and what I said I did in the paper is not quite aligned with what I actually did in the code; in particular, the Node2Vec variant I used is slightly different. The revised paper does not correct for these bugs, only grammatical errors. 
 
-The original code is in the `original-code` branch. The modified code will appear in the `updated-code` branch as it is written. 
-Once finished, the `updated-code` branch will become the default again. 
+The original, albeit slightly cleaned up, code I used is in the `original-code` branch. The `updated-code` branch has further cleaned and more efficient code, uses the standard `node2vec` package for the unweighted graph as well as the wrighted, and has additional experiments/plots. However, it also does not strictly adhere to what is described in the paper.
+
+The 
 
 ## Running the Code
 
