@@ -5,7 +5,7 @@
 This Project was my Final Project for my Natural Language Processing class (LING 581) in Fall 2023 at BYU.
 The code has been cleaned up to make it easier to run. 
 
-There is a project write-up in `LING581_FinalProject_NLP.pdf`, just note that my original code had some bugs, and what I said I did in the paper is not quite aligned, in particular, the Node2Vec variant I used. 
+There is a project write-up in `LING581_FinalProject_NLP.pdf`, just note that my original code had some bugs, and what I said I did in the paper is not quite aligned with what I actually did; in particular, the Node2Vec variant I used is slightly different. 
 
 The original code is in the `original-code` branch. The `updated-code`branch has cleaned up, more efficient code, and additional plots. However, it also does not strictly adhere to what is described in the paper.
 
