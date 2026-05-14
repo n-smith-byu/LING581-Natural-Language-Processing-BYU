@@ -9,7 +9,9 @@ There is a project write-up in `LING581_FinalProject_NLP_revised.pdf`. The paper
 
 The original, albeit slightly cleaned up, code I used is in the `original-code` branch. The `updated-code` branch has further cleaned and more efficient code, uses the standard `node2vec` package for the unweighted graph as well as the wrighted, and has additional experiments/plots. However, it also does not strictly adhere to what is described in the paper.
 
-The 
+Project Write-Ups:
+
+- [`LING581_FinalProject_NLP_revised.pdf`](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/LING581_Final_Project_NLP_revised.pdf)
 
 ## Running the Code
 
