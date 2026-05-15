@@ -11,10 +11,9 @@ The original (albeit somewhat cleaned up) code I used is in the `original-code` 
 
 ### Project Write-Ups:
 
-Latest:
-- [`LING581_FinalProject_NLP_revised.pdf`](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/LING581_Final_Project_NLP_revised.pdf)
+Latest (Updated Code):
 
--- 
+- [In Progress]
 
 Original (Revised):
 - ['LING581_FinalProject_NLP_revised.pdf](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
