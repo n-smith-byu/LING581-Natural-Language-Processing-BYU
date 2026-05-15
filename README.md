@@ -9,7 +9,7 @@ There is a project write-up in `LING581_FinalProject_NLP_revised.pdf`. The paper
 
 The original (albeit somewhat cleaned up) code I used is in the `original-code` branch. The `updated-code` branch has further cleaned and more efficient code, uses the standard `node2vec` package for the unweighted graph as well as the wrighted, corrects the bug in the analogy tests, and has additional experiments/plots. This will be where `v2.0` of the paper gets placed. 
 
-### Project Write-Ups:
+## Project Write-Ups:
 
 Latest (Updated Code):
 
