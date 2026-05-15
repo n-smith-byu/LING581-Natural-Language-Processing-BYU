@@ -16,11 +16,11 @@ Latest (Updated Code):
 - [In Progress]
 
 Original (Revised):
-- ['LING581_FinalProject_NLP_revised.pdf](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
+- [`LING581_FinalProject_NLP_revised.pdf`](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
 
 Original:
 *This is thew raw original version. Contains Bugs, Grammatical Errors, etc. This was simply the version I originally wrote for my class.*
-- ['LING581_FinalProject_NLP_original.pdf](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
+- [`LING581_FinalProject_NLP_original.pdf`](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
 
 ## Running the Code
 
