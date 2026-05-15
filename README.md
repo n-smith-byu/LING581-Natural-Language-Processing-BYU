@@ -26,8 +26,8 @@ Original:
 ## Running the Code
 
 1. First, run all the cells in `MakeGraph.ipynb`
-2. Next run cells in `EmbeddingGeneration.ipynb`. This runs Node2Vec and generates embeddings. It also pulls in Google's pretrained embeddings.
-3. Finally, run the cells in `GraphAndModelEvaluation.ipynb`. This performs analogy tests and creates visualizations to check for bias. 
+2. Next run selected cells in `EmbeddingGeneration.ipynb`. This runs Node2Vec and generates embeddings for selected hyperparameters.
+3. Finally, run cells for selected hyperparameters in `GraphAndModelEvaluation.ipynb`. This performs analogy tests, creates visualizations to check for bias, and compares to Google's Pretrained Word2Vec embeddings. 
 
 ## References
 

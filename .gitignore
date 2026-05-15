@@ -4,3 +4,4 @@ __pycache__
 *.gexf
 *.json
 *.model
+*.ipynb_checkpoints
