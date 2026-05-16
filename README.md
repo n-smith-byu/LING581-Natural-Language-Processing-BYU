@@ -9,18 +9,18 @@ There is a project write-up in `LING581_FinalProject_NLP_revised.pdf`. The paper
 
 The original (albeit somewhat cleaned up) code I used is in the `original-code` branch. The `updated-code` branch has further cleaned and more efficient code, uses the standard `node2vec` package for the unweighted graph as well as the wrighted, corrects the bug in the analogy tests, and has additional experiments/plots. This will be where `v2.0` of the paper gets placed. 
 
-### Project Write-Ups:
+## Project Write-Ups:
 
 Latest (Updated Code):
 
 - [In Progress]
 
 Original (Revised):
-- ['LING581_FinalProject_NLP_revised.pdf](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
+- [`LING581_FinalProject_NLP_revised.pdf`](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
 
 Original:
-*This is thew raw original version. Contains Bugs, Grammatical Errors, etc. This was simply the version I originally wrote for my class.*
-- ['LING581_FinalProject_NLP_original.pdf](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
+>*This is the raw, unedited, original version. Contains Bugs, Grammatical Errors, etc. This was the version I wrote for my class project.*
+- [`LING581_FinalProject_NLP_original.pdf`](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
 
 ## Running the Code
 
