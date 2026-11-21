@@ -16,7 +16,7 @@ Latest (Updated Code):
 - [In Progress]
 
 Original (Revised):
-- [`LING581_FinalProject_NLP_revised.pdf`](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_original.pdf)
+- [`LING581_FinalProject_NLP_revised.pdf`](https://n-smith-byu.github.io/LING581-Natural-Language-Processing-BYU/backup/LING581_Final_Project_NLP_revised.pdf)
 
 Original:
 >*This is the raw, unedited, original version. Contains Bugs, Grammatical Errors, etc. This was the version I wrote for my class project.*
